@@ -30,6 +30,9 @@ Dynamically generating HTML content with JavaScript
 
 Working with JSON responses
 
+<h1>Image</h1>
+<img src=""width=100%>
+
 Looping through objects/arrays
 
 Updating the DOM in real-time</h4>
