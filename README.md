@@ -31,7 +31,10 @@ Dynamically generating HTML content with JavaScript
 Working with JSON responses
 
 <h1>Image</h1>
-<img src=""width=100%>
+<img src="https://github.com/SwapnilpatilTech/JAVASCRIPT_FINAL-EXAM/blob/cad04125aa3cdceeb02dd4d1e7baa25dbc195180/COVID-19/Asset/Screenshot%202025-04-22%20112042.png"width=100%>
+
+<h1>Video</h1>
+<img src="https://github.com/SwapnilpatilTech/JAVASCRIPT_FINAL-EXAM/blob/cad04125aa3cdceeb02dd4d1e7baa25dbc195180/COVID-19/Asset/Screenshot%202025-04-22%20112042.png"width=100%>
 
 Looping through objects/arrays
 
